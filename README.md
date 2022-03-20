@@ -15,5 +15,5 @@ Intented as an easy starting point for your own library to save you some time.
 // It matters: Everything is an energy exchange ⚡.
 //
 //
-// ^ Also feel free to copy this template for your own projects.
+// ^ Also feel free to copy this template for your own projects (and don't forget to replace the wallets).
 // 🙏 You deserve to be happy and free.
