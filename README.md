@@ -3,6 +3,7 @@ Simply CREATE, READ, UPDATE and DELETE with MongoDB and Node.
 
 Intented as an easy starting point for your own library to save you some time.
 
+```
 // Enjoy the free code sharing. 
 // Yet also remember: Code needs mainters. Mainters need $$$.
 // If you use the repo, and would like to keep things alive,
@@ -18,3 +19,4 @@ Intented as an easy starting point for your own library to save you some time.
 // ^ Also feel free to copy this template for your own projects.
 // You deserve to be happy and free.
 // 
+```
