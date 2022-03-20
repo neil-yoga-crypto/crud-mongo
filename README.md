@@ -15,5 +15,3 @@ Intented as an easy starting point for your own library to save you some time.
 //
 // ^ Also feel free to copy this template for your own projects.
 // You deserve to be happy and free.
-// 
-```
