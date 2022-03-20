@@ -12,8 +12,8 @@ Intented as an easy starting point for your own library to save you some time.
 // - Nano (zero fees): nano_3boxqk5q56xsz8ufrw9srrz4pta6ffbkrg9j31aqziz8wtnr6j68ci7s4cnc
 // - Monery (good privacy): 47C8tUyXYTN7AyH22dNFgnEYoMLTQhZvLZRtoj2XYG4PA5fsLohYeGxb6ULS1TSEPU768nXkW1n5XKyiiMeciNVeBwfRHjf
 //
-// It matters: Everything is an energy exchange.
+// It matters: Everything is an energy exchange ⚡.
 //
 //
 // ^ Also feel free to copy this template for your own projects.
-// You deserve to be happy and free.
+// 🙏 You deserve to be happy and free.
