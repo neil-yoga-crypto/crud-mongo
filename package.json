@@ -1,0 +1,25 @@
+{
+  "name": "crud-mongo",
+  "version": "1.0.0",
+  "description": "Part of https://github.com/neil-yoga/crud-true-power",
+  "main": "crud-mongo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neil-yoga/crud-mongo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neil-yoga/crud-mongo/issues"
+  },
+  "homepage": "https://github.com/neil-yoga/crud-mongo#readme",
+  "dependencies": {
+    "mongodb": "^4.4.1"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
